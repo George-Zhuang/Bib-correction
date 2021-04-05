@@ -33,11 +33,11 @@
 
 - test.bib
 
-![image](\imgs\image-20210405105648995.png)
+![image](https://github.com/George-Zhuang/Bib-correction/blob/main/imgs/image-20210405105648995.png)
 
 - test_cor.bib
 
-![image](\imgs\image-20210405105710741.png)
+![image](https://github.com/George-Zhuang/Bib-correction/blob/main/imgs/image-20210405105710741.png)
 
 ------
 
