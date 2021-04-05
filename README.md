@@ -33,11 +33,11 @@
 
 - test.bib
 
-<img src="C:\Users\12147\AppData\Roaming\Typora\typora-user-images\image-20210405105648995.png" alt="image-20210405105648995" style="zoom: 67%;" />
+[image-20210405105648995](\imgs\image-20210405105648995.png)
 
 - test_cor.bib
 
-<img src="C:\Users\12147\AppData\Roaming\Typora\typora-user-images\image-20210405105710741.png" alt="image-20210405105710741" style="zoom:67%;" />
+[image-20210405105710741](\imgs\image-20210405105710741.png)
 
 ------
 
